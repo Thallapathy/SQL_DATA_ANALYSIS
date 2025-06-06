@@ -25,13 +25,13 @@
 ---
 
 ## 📸 Output
-Screenshots of executed queries and output stored in the `screenshots/` folder.
+Screenshots of executed queries and output in images
 
 ---
 
 ## 📂 Files in This Repo
 - `ecommerce_queries.sql` → SQL file with all queries
-- `screenshots/` → Folder containing query outputs
+- `Q1.png to Q6.png` → Images containing query outputs
 - `README.md` → This documentation file
 
 ---
